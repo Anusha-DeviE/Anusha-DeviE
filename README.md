@@ -8,17 +8,17 @@
 
 ## 🔧 Tech Stack  
 
-- **Languages:** Python, C++, SQL, R  
-- **Machine Learning:** Scikit-learn, XGBoost, LightGBM  
-- **Deep Learning:** PyTorch, TensorFlow, Keras  
-- **NLP:** Hugging Face Transformers, SpaCy, Rasa, NLTK  
-- **Generative AI:** Stable Diffusion, DALL·E, LoRA Fine-tuning, LangChain, RAG  
-- **Reinforcement Learning:** OpenAI Gym, RLlib  
-- **Data & Analytics:** Pandas, NumPy, Power BI, Tableau, Excel  
-- **Databases & Search:** FAISS, MongoDB, PostgreSQL, MySQL  
-- **Visualization & Tools:** Matplotlib, Seaborn, Gradio, Flask, Streamlit, Ursina Engine  
-- **Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, MLflow  
-- **Version Control & Collaboration:** Git, GitHub  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -31,11 +31,13 @@
 
 ## 📊 GitHub Stats  
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/YOUR_USERNAME)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)](https://github.com/YOUR_USERNAME)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anusha-DeviE&show_icons=true&theme=tokyonight)](https://github.com/Anusha-DeviE)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha-DeviE&layout=compact&theme=tokyonight)](https://github.com/Anusha-DeviE)
 
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn](www.linkedin.com/in/anushadevi26)
-- [Email](itzanushadevi@gmail.com)  
+
+- [LinkedIn](https://www.linkedin.com/in/anushadevi26)  
+- [Email](mailto:itzanushadevi@gmail.com)  
