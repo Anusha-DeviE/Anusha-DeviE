@@ -84,8 +84,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anusha-DeviE&show_icons=true&theme=tokyonight)](https://github.com/Anusha-DeviE)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha-DeviE&layout=compact&theme=tokyonight)](https://github.com/Anusha-DeviE)
-
 ---
 
 ## 📫 Connect with Me  
