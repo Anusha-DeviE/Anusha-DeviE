@@ -77,13 +77,6 @@
 
 - ✈️ **Drone-Zone: Autonomous Flight with Q-Learning**  
 - 🎓 **College Admission Enquiry Chatbot (RAG + Falcon-7B)**  
-
----
-
-## 📊 GitHub Stats  
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anusha-DeviE&show_icons=true&theme=tokyonight)](https://github.com/Anusha-DeviE)
-
 ---
 
 ## 📫 Connect with Me  
